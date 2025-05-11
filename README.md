@@ -12,16 +12,11 @@
 
 ## 🛠 기술 스택
 
-<div align="center">
-
-<!-- ASP.NET -->
-<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Badge" />
-<!-- C# -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" />
-<!-- MSSQL -->
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Badge" />
-
-</div>
+| 언어 / 기술 | 설명 |
+|:------------:|------|
+| ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white) | .NET 기반의 MVC 아키텍처 웹 애플리케이션 개발 |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | 서버 사이드 로직 및 비즈니스 로직 구현 |
+| ![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | 관계형 데이터베이스 설계 및 T-SQL 기반 쿼리 처리 |
 
 ---
 
